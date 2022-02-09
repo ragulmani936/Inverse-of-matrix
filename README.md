@@ -11,6 +11,7 @@
 
 
 ## PROGRAM:
+~~~
 #Developed by:Ragul M
 #Reg No:21500303
 import numpy as np
@@ -26,6 +27,7 @@ print(l2)
 value1 = np.array(l2)
 inverse = np.linalg.inv(value1)
 print(inverse)
+~~~
 
 ## OUTPUT:
 ![output](https://github.com/ragulmani936/Inverse-of-matrix/blob/main/Screenshot%20(58).png)
