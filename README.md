@@ -42,3 +42,4 @@ print(inverse)
 ## OUTPUT:
 ![output](https://github.com/ragulmani936/Inverse-of-matrix/blob/main/Screenshot%20(58).png)
 ## RESULT:
+Thus the program is written to Inverse of matrix
