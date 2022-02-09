@@ -5,10 +5,19 @@ To write a python program for Inverse of matrix
 
 ## ALGORITHM:
 ### Step 1:
+Get the input from the user
+
 ### Step 2:
+use append() to add new elements in the list
+
 ### Step 3:
+Get the input from the user using np.array()
+
 ### Step 4:
+inverse = np.linalg.inv() to inverse the matrix and print the output
+
 ### Step 5:
+End the program
 
 
 ## PROGRAM:
